@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michealebrooker
+- 👋 Hi, I’m @michaelebrooker
 - 👀 I’m interested in ... web development
 - 🌱 I’m currently learning ... hugo
 - 💞️ I’m looking to collaborate on ...
