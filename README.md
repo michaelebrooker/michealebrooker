@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Mike Brooker @michaelebrooker
-- 👀 I’ve been working in web development since the mid-1990s, and I like Hugo and I'm building my skills with this very flexible, if complex, tool. Deploy on netlify is my default. 
-- 🌱 I moved over to using hugo because it's part of the Jamstack vector, which makes a lot of sense. There are other static-site compilers but hugo is nice because it just works without any fuss. I build multi-page websites for local community and voluntary organisations. I do also use node with gulp with sass comp and browser-sync for some Bootstrap-based theme template development. 
+- 👀 I’m retired - officially, but I still do website building and editing. I started my journey in web development from being an implementer of desktop publishing systems, while a production editor on technical magazines and newspapers. I was even given the pointy-hat job title of Webmaster in 1995, when HTML 2.0 was just coming along, and Netscape extensions allowed more styling options for text. I wrote server-side stuff in bash shell, Perl, and then PHP, ASP.
+- Over some years I have been using Hugo to build static sites, originally mostly manually coded, but of course newer more efficient ways have come along, such as Hugoblox and Hugochat. 
+- 🌱 I have built multi-page websites for local community and voluntary organisations that I've been involved with. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
